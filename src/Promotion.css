@@ -1,0 +1,434 @@
+.promotionimage{
+    margin-top:20px;
+    height: 5px;
+    width: 30px;
+}
+
+
+.super{
+   margin-top: 150px;
+   margin-left: 50px;
+   font-size:xx-large;
+   font-weight: bold;
+   color: aliceblue;
+}
+
+.fs{
+    margin-top: 10%;
+    margin-left: 80px;
+    font-weight: bold;
+    color: rgb(12, 12, 185);
+}
+
+/* .fivethree{
+    margin-top: 120px;
+    margin-left: 90px;
+} */
+
+
+
+.imgpro1{
+    background-image: url('./pictures/imagepro1.jpg');
+    background-repeat: no-repeat;
+    position: absolute;
+    /* margin-left: 10%;
+    margin-top: 1%;*/
+}
+.promotion-image{
+    position:relative;
+    
+
+}
+
+.bestseller{
+    margin-top: 30px;
+    margin-left:45%;
+    font-size: x-large;
+    font-weight: bold;
+}
+
+.all{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+    font-size: larger;
+    margin-left: 60px;
+    margin-right: 60px;
+    border:none;
+    outline: none;
+}
+.borderrem{
+    border: none;
+    background: none;
+    outline: none;
+}
+
+.datas-add-button{
+    font-weight: 700;
+    font-size: 10px;
+    border-radius: 4px;
+    border: none;
+    outline: none;
+    background-color: black;
+    color: aliceblue;
+    width: 50%;
+    height: 30px;
+    display: block;
+    cursor: pointer;
+    text-transform: uppercase;
+    margin-top: 20px;
+}
+
+.datas-add-button:hover{
+    background-color: red;
+}
+
+.datas-add-button:active{
+    transform: translateY(2px);
+}
+.card1{ 
+    background-image: url('../src/pictures/imagepro1.jpg'); 
+    background-repeat: no-repeat;    
+    transition: transform .2s;  
+  }
+  .card-1{
+    position: absolute;
+    
+  }
+ .card-bottom{
+    margin-top: -4rem;
+    
+ }
+.card2-top{
+    position: absolute;
+}
+.card3-bottom{
+    position: absolute;
+    
+}
+.card3-top{
+    position: absolute;
+}
+
+.loadmore{
+    font-weight: 2px;
+    font-size:large ;
+    text-decoration: underline;
+    font-weight: 600;
+}
+
+
+.Bluepart{
+    margin-top: 50px;
+    padding: 18px;
+    padding-bottom: 20px;
+    background-color: rgb(50, 175, 253);
+}
+
+.adidas{
+    color: aliceblue;
+    margin-left: 100px;
+    margin-top: 80px;
+    font-style:oblique
+}
+
+.Performence{
+    margin-left: 70px;
+    margin-top: 50px;
+    color: aliceblue;
+    font-style: inherit;
+}
+
+.shopnow{
+    margin-left: 80px;
+    margin-top: 30px;
+    color: aliceblue;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.imgpro11{
+    margin-left: 50%;
+    margin-top: -27%;
+}
+
+.shipping{
+    margin-left: 100px;
+    margin-top: 80px;
+}
+
+.dollor{
+    margin-left:550px;
+    margin-top: -160px;
+}
+.caller{
+    margin-left: 920px;
+    margin-top: -190px;
+}
+
+.latestnews{
+    margin-left: 600px;
+    margin-top: 30px;
+}
+
+.Nike{
+    margin-left: 60px;
+    margin-top: 50px;
+}
+
+.fashionindustry{
+    margin-left: 90px;
+    margin-top: 10px;
+}
+
+.jan{
+    margin-left: 100px;
+    margin-top: -60px;
+    opacity: 0.5;
+}
+.lorem6{
+    margin-left: 90px;
+}
+
+.figmalogo{
+    margin-left: 500px;
+    margin-top: -100px;
+}
+
+.lorem7{
+    margin-left: 90px;
+}
+
+.Bestdesign{
+    margin-left: 90px;
+}
+
+.kronoslogo{
+    margin-left: 900px;
+    margin-top: -120px;
+}
+
+.hrcommunity{
+    margin-left: 100px;
+}
+
+.lorem8{
+    margin-left: 100px;
+}
+
+.vector1{
+    margin-left: 30px;
+    margin-top: 60px;
+}
+
+.sneakers{
+    margin-left: 110px;
+    margin-top: -100px;
+}
+
+.stars{
+    margin-left: 110px;
+}
+
+.fournine{
+    margin-left: 110px;
+    font-weight: bold;
+    color: rgb(254, 10, 96);
+}
+
+.vector2{
+    margin-left: 400px;
+    margin-top: -80px;
+}
+
+.vector3{
+    margin-left: 750px;
+    margin-top: -80px;
+}
+
+
+
+
+.com{
+    margin-left: 80px;
+    margin-top: -20px;
+}
+
+.ecom{
+    margin-left: 90px;
+    margin-top: -25px;
+}
+
+.ipsum{
+    font-size:x-small;
+    margin-left: 60px;
+    margin-top: 10px;
+}
+
+.followus{
+    margin-left: 500px;
+    margin-top: -100px;
+}
+
+.email{
+    margin-left: 35%;
+    margin-top: 5%;
+    height: 38px;
+    width: 390px;
+    }
+    .search{
+        margin-top: -14%;
+        margin-left:86%;
+        border: none;
+    }
+    .background{
+        padding: 400px;
+         background: #BCDDFE;
+         margin-top: 10%;
+         margin-bottom: 4%;
+         
+    
+    }
+    .icon2{
+        margin-top: -52%;
+        margin-left: -80%;
+    }
+    .comm1{
+        margin-left: -60%;
+       margin-top:6%;
+    }
+    .para{
+        margin-top: -600px;
+        margin-left: 5%;
+    }
+    .comm2{
+        margin-left: 36%;
+       margin-top: -13.5%
+    }
+    .para1{
+    margin-top: 2%;
+    margin-left: 36%;
+    }
+    .facebook{
+        margin-top: 2%;
+        margin-left: 36%; 
+        color:#385C8E;
+    }
+    .twitter{
+        color: #03A9F4;
+        margin-top: -2%;
+        margin-left: 42%; 
+    }
+    .comm3{
+        margin-left: 70%;
+       margin-top: -13.5%
+    }
+    .para2{
+        margin-top: 2%;
+    margin-left: 70%;
+    }
+    .info{
+        margin-top: 10%;
+        font-family: 'Poppins' sans-serif;
+    font-style: normal;
+    
+    }
+    .info1 {
+        margin-top: 2.5%;
+        font-family: 'Poppins' sans-serif;
+    font-style: normal;
+    font-size: 0.4cm;
+    }
+    .Service{
+        margin-top: -12.4%;
+        margin-left: 28%;
+        font-family: 'Poppins' sans-serif;
+    font-style: normal;
+    }
+    .Service1{
+        margin-top: 2.5%;
+        margin-left: 28%;
+        font-family: 'Poppins' sans-serif;
+    font-style: normal;
+    font-size: 0.4cm;
+    }
+    .account{
+        margin-top: -12.4%;
+        margin-left: 56%;
+        font-family: 'Poppins' sans-serif;
+    font-style: normal;
+    }
+    .account1{
+        margin-top: 2.5%;
+        margin-left: 56%;
+        font-family: 'Poppins' sans-serif;
+    font-style: normal;
+    font-size: 0.4cm;
+    }
+    .offer{
+        margin-top: -12.4%;
+        margin-left: 80%;
+        font-family: 'Poppins' sans-serif;
+    font-style: normal;
+    }
+    .offer1{
+        margin-top: 2.5%;
+        margin-left: 80%;
+        font-family: 'Poppins' sans-serif;
+    font-style: normal;
+    font-size: 0.4cm;
+    }
+    .bigline{
+       margin-top: 2.9%;
+        width: 95%;
+        color: white;
+    }
+    .C1{
+        margin-left: 60%;
+        margin-top: 30px;
+    }
+
+    .C2{
+        margin-left: 830px;
+        margin-top: -30px;
+    }
+
+    .C3{
+        margin-left: 900px;
+        margin-top: -30px;
+    }
+
+    .C4{
+        margin-left: 980px;
+        margin-top: -30px;
+    }
+
+
+    .com{
+        margin-top: -30px;
+        margin-left: 5%;
+        color: #C1C8CE;
+        
+    font-style: normal;
+    }
+    .formcontrol{
+    outline: none;
+    border: 2px solid #03A9F4;
+    }
+    .m-right{
+        margin-left: -3%;
+    }
+
+    .greyftf{
+        color: #9098B1;
+    }
+
+    .orange-24{
+        color: #FB7181;
+
+    }
+
+    .dropdown{
+        border:none;
+        outline: none;
+    }
